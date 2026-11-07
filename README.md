@@ -2,7 +2,7 @@
 
 An interactive, web-based quiz designed to help users decide which **Operating System (OS)** and **exact variant/distro** best suits their needs, budget, and personality.
 
-##🌐 Live Demo Here: https://oschooserlol.vercel.app/
+## 🌐 Live Demo Here: https://oschooserlol.vercel.app/
 
 ---
 
